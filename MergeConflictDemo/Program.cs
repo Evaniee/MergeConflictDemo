@@ -21,6 +21,9 @@ namespace MergeConflictDemo
                         case "example":
                             Console.WriteLine("This is an example of what you could do.");
                             break;
+                        case "evaniee":
+                            Console.WriteLine("This was added after you created your branch.");
+                            break;
                         case "quit":
                             Console.WriteLine("Goodbye!");
                             return;
